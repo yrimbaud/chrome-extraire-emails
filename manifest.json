@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Extracteur d'Email",
+  "version": "1.0",
+  "description": "Extension permettant d'extraire les adresses email de la page HTML actuelle.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
