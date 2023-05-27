@@ -6,12 +6,12 @@ Elle est particulièrement utile pour extraire des emails qui ont été obfusqu�
 
 ## Comment utiliser
 
-Téléchargez les fichiers de ce dépôt
-Ouvrez Chrome et accédez à chrome://extensions/
-Activez le mode développeur en haut à droite.
-Cliquez sur "Charger l'extension non empaquetée" et sélectionnez le dossier que vous avez créé.
-Naviguez sur la page dont vous souhaitez extraire les adresses email
-Cliquez sur l'icone représentant l'extension "Extract Emails"
+- Téléchargez les fichiers de ce dépôt
+- Ouvrez Chrome et accédez à chrome://extensions/
+- Activez le mode développeur en haut à droite.
+- Cliquez sur "Charger l'extension non empaquetée" et sélectionnez le dossier que vous avez créé.
+- Naviguez sur la page dont vous souhaitez extraire les adresses email
+- Cliquez sur l'icone représentant l'extension "Extract Emails"
 
 ## Problèmes connus
 
