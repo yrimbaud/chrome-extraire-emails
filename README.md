@@ -17,7 +17,7 @@ Elle est particulièrement utile pour extraire des emails qui ont été obfusqu�
 
 L'extension utilise le Manifest version 2 qui est déprécié.
 
-## Limitations
+## Limites
 
 L'extension ne peut extraire que les adresses email qui sont présentes dans le code HTML de la page. Elle ne peut pas extraire les adresses email qui sont dynamiquement chargées ou celles qui sont cachées derrière des éléments interactifs.
 
