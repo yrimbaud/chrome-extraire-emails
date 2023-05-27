@@ -23,4 +23,4 @@ L'extension ne peut extraire que les adresses email qui sont présentes dans le 
 
 ## Auteur
 
-L'extension Chrome a été créée par Yann Rimbaud ((@yrimbaud)[https://github.com/yrimbaud/]).
+L'extension Chrome a été créée par Yann Rimbaud ([@yrimbaud](https://github.com/yrimbaud/)).
