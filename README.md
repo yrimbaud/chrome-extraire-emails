@@ -4,7 +4,7 @@ Cette extension Chrome permettant d'extraire rapidement les adresses email de la
 
 Elle est particulièrement utile pour extraire des emails qui ont été obfusqués (en CSS ou JavaScript).
 
-## Comment utiliser
+## Installation et Utilisation
 
 - Téléchargez les fichiers de ce dépôt
 - Ouvrez Chrome et accédez à chrome://extensions/
